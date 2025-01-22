@@ -1,0 +1,17 @@
+curl ^"https://filman.cc/m/Lzel5nX9ivRarDFEjMqmTbQWp^" ^
+  -H ^"accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8^" ^
+  -H ^"accept-language: pl-PL,pl;q=0.7^" ^
+  -H ^"cache-control: max-age=0^" ^
+  -H ^"cookie: user_id=95129; PHPSESSID=k801ld9q8q5oi8v8pchbe8k49u; BKD_REMEMBER=8FIaVAwvexULKiRzjPdY7HplN4OZGX9JonEC2yt6km5cBruSM; cf_clearance=P6Ya31l8iegskBAKrGoT0888TsuBaknf9Y0Y17Z.sJs-1737570944-1.2.1.1-pHA8NfvexSrR8gAbiFo9HThHq6EItGEBHtrTaTtvHJNlO5n49oKJIkxlk4FFx8JuPQx.rr0fZjj3itBgLjm4EdABxBnpkeW6D7O6TZmsnJf4.bLfOqAx2R5OERKGdsQa_QPvOGGkwUO.mza9kyRlxQaE5rSfZN64TeekVnbZRpDrhbWGw08bgpaTi1W9ereFfwagK579ESj9zdOny7FrK74S3jo54kpJeRll.kuhOsIvvHDKoEB.EamZn5vIKyCHoRJU_gZ3yv9A54he9U0p8e8SrN8mz7nBDynQhp2akMk^" ^
+  -H ^"priority: u=0, i^" ^
+  -H ^"referer: https://filman.cc/item?phrase=joker^" ^
+  -H ^"sec-ch-ua: ^\^"Not A(Brand^\^";v=^\^"8^\^", ^\^"Chromium^\^";v=^\^"132^\^", ^\^"Brave^\^";v=^\^"132^\^"^" ^
+  -H ^"sec-ch-ua-mobile: ?0^" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" ^
+  -H ^"sec-fetch-dest: document^" ^
+  -H ^"sec-fetch-mode: navigate^" ^
+  -H ^"sec-fetch-site: same-origin^" ^
+  -H ^"sec-fetch-user: ?1^" ^
+  -H ^"sec-gpc: 1^" ^
+  -H ^"upgrade-insecure-requests: 1^" ^
+  -H ^"user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36^"
