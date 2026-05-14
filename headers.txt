@@ -4,9 +4,9 @@ curl.exe ^"https://filman.cc/^" ^
   -H ^"Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8^" ^
   -H ^"Accept-Language: pl,en-US;q=0.9,en;q=0.8^" ^
   -H ^"Accept-Encoding: gzip, deflate, br, zstd^" ^
-  -H ^"Referer: https://filman.cc/logowanie^" ^
+  -H ^"Referer: https://filman.cc/rejestracja^" ^
   -H ^"Connection: keep-alive^" ^
-  -H ^"Cookie: cf_clearance=noG0oGHrCE1pzpmVN4X5H6VfWrQeTqZTbMMHrGRo_vo-1778696238-1.2.1.1-ZO1HBNnP.zpCmfRDfCNeKF4N6_gd7Bhb_qB8eqQHno_DbnU.NiLJFQJvJ6xoGc9Y2ITHluGE8zDqL_gM71GrYlN.O439Oska2RaClOZYaAL4IrbGwADMl.BT277ZSDfBpsl5F1S6aKMRsOql4Sv66cFTqkuxMWEfkSfeNj12dXKFyINzbAj.DHW3Y.vjdzb6vPorL1CXcvlgTNBH9t0419Gm0TeqMjIsSn4FaVWm4mOVExu4TMr_1JrBmLZ8BP3neJOPBqvCWv63eSDA4atKQ5L_ux8QorxbeW5xYi_dgCsW197vdZmK0C.RjUO80Ec2aRMqpNyghDT8Vax2NOGkng; user_id=1824143; PHPSESSID=nrd8e5gvq2t2k4h9dmlf7et4f3; BKD_REMEMBER=rI8zjmlyp5XER7SMoHUYkeh1PBAGxLNCOq9wuJ^" ^
+  -H ^"Cookie: cf_clearance=SOPcw_scIwtpBolRetwMOlmzLIlm5JLjU9cai8B08po-1778785224-1.2.1.1-uJ1CqqWmhHK4woenH2RUuHAdkFQy_OMTTMl2CyW47eRvw2.mK4DsUnKD9QRYceleBXHIPotTluaJyRgiv2UMxNKmFxYt2.1ajpfZ9Q9QB2cmN5kG8d.lETNWpRu6iCb3QvolDDICql0FCwCit0o4KNHFgIMGdhK.g8ee4jX7SajAFrkRLLKDB0ywCotitY6wWv0w8mWtqWDdO4B4CsOcmOJg1yB_A9pOMXMCy3l7SPxzK3PECjnDrKOhvNNF6OyHE8WWqFRalson0xzdP8jFHkNIXnV8o7EBgRJ8TCzmbub.zT0Ku_QWcsWRlstUHzT6pplmDZli14Jx50XKK9sgew; user_id=1824143; PHPSESSID=nrd8e5gvq2t2k4h9dmlf7et4f3^" ^
   -H ^"Upgrade-Insecure-Requests: 1^" ^
   -H ^"Sec-Fetch-Dest: document^" ^
   -H ^"Sec-Fetch-Mode: navigate^" ^
